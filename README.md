@@ -15,5 +15,5 @@ Run these linux commands:
 
 or Run by docker compose
 
-test
+testing auto trigger
 
